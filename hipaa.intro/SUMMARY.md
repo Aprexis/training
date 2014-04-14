@@ -12,7 +12,7 @@
 	* [HITECH / Omnibus](hipaa_sections/hitech.md)
 * [All about PHI](phi/README.md)
 	* [Elemets of PII](phi/elements.md)
-	* [How to Limit PHI](phi/limit.md)
+	* [Deidentify](phi/anonymize.md)
 	* [Catalyze Approach to PHI](you/catalyze.md)
 * [HIPAA Breaches](breach/README.md)
 	* [Definition of Breach](breach/define.md) 
