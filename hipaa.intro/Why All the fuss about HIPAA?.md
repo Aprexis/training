@@ -5,7 +5,7 @@ Well, for three key reasons:
 ###It is the right thing to to
 
 ###The cloud
-With an increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy guidelines / standards need to be put into place
+With an increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy guidelines / standards need to be put into place.
 
 ###There are heavy penalties for violating it.
 
@@ -18,7 +18,7 @@ There are monetary penalties associated with HIPAA violations, and the amounts o
 
 ![HIPAA Financial Penalties][id1]
 
-Previous to these new rules, the fine associated with each HIPAA violation was capped at $25,000. This number is now $1.5 million per violation.
+Previous to these new rules, the fine associated with each HIPAA violation was capped at $25,000. This number is now **$1.5 million per violation**.
 
 In certain extreme HIPAA cases, individuals can be exposed to criminal risk as well. When criminal action is involved with HIPAA, the OCR hands the case off to The Department of Justice. Individuals are at risk of criminal enforcement and penalties if they “knowingly” obtain, disclose, or use PHI “in violation” of HIPAA rules. You can read a very detailed, legal opinion on what [constitutes](http://www.justice.gov/olc/hipaa_final.htm) legal vs civil in the case of HIPAA. There is a lengthy discussion of the terms “knowingly” and “in violation” in that document, which is why we put them in quotes.
 
