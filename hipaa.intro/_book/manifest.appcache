@@ -1,32 +1,35 @@
 CACHE MANIFEST
-# Revision 1399512844617
+# Revision 1399518870911
 
 CACHE:
-Quiz.html
 Business Associates.html
+Catalyze Breach Policy.html
 Covered Entities.html
 Definition of Breach.html
-Enforcement.html
 Dowloading PHI data locally.html
+Enforcement.html
 Expectations vs Reality.html
+Final steps.html
 Further Reading.html
 HIPAA Breaches.html
 HIPAA Rules.html
 HIPAA and You.html
 Incident Management.html
+Key Contacts.html
 Key contacts and roles.html
 Notifications.html
 Penalties.html
 Physical Access.html
 Preventing Breaches.html
-Catalyze Breach Policy.html
+Quiz.html
 index.html
 Sanctions.html
 Security.html
 Subcontractors.html
 System Access.html
-What Does It Mean For You.html
+Technical Security.html
 Understanding PHI.html
+What Does It Mean For You.html
 Why All the fuss about HIPAA?.html
 baa/README.html
 hipaa_basics/README.html
@@ -36,8 +39,8 @@ hipaa_sections/README.html
 hipaa_sections/admin.html
 hipaa_sections/hitech.html
 hipaa_sections/privacy.html
-phi/README.html
 hipaa_sections/security.html
+phi/README.html
 phi/anonymize.html
 phi/elements.html
 gitbook/app.js
@@ -76,8 +79,8 @@ gitbook/jsrepl/sandbox.html
 gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
-gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
+gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 
 NETWORK:
 *
