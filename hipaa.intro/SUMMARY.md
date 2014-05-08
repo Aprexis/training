@@ -39,4 +39,5 @@
     * [Physical Security](Security.md)
     * [Technical Security](Technical Security.md)
     * [Key Contacts](Key Contacts.md)
+* [Final steps](Final steps.md)
 
