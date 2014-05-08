@@ -1,30 +1,32 @@
 CACHE MANIFEST
-# Revision 1399486776124
+# Revision 1399512844617
 
 CACHE:
+Quiz.html
 Business Associates.html
-Catalyze Sanctions.html
-index.html
-Catalyze and HIPAA.html
 Covered Entities.html
 Definition of Breach.html
 Enforcement.html
+Dowloading PHI data locally.html
 Expectations vs Reality.html
-HIPAA Breaches.html
 Further Reading.html
+HIPAA Breaches.html
 HIPAA Rules.html
 HIPAA and You.html
+Incident Management.html
+Key contacts and roles.html
 Notifications.html
-Preventing Breaches.html
 Penalties.html
+Physical Access.html
+Preventing Breaches.html
 Catalyze Breach Policy.html
-Policies.html
-Report in Timely Way.html
-Risk Assessments.html
-Stay Up to Date.html
+index.html
+Sanctions.html
+Security.html
 Subcontractors.html
+System Access.html
 What Does It Mean For You.html
-What does it mean for you?.html
+Understanding PHI.html
 Why All the fuss about HIPAA?.html
 baa/README.html
 hipaa_basics/README.html
@@ -34,8 +36,8 @@ hipaa_sections/README.html
 hipaa_sections/admin.html
 hipaa_sections/hitech.html
 hipaa_sections/privacy.html
-hipaa_sections/security.html
 phi/README.html
+hipaa_sections/security.html
 phi/anonymize.html
 phi/elements.html
 gitbook/app.js

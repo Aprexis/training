@@ -11,6 +11,18 @@ Only access, use or disclose PHI if your job allows you access and that access i
 
 If for some reason, while providing support to a customer, you are able to view such information, do not copy, download, screenshot or retain access to any such data and report this immediately to your manager or our Chief Security Officer.
 
+##Minimum necessary PHI
+The intention at every step should always be:
+- To use or disclose/release only the minimum necessary to accomplish the intended purposes of the use, disclosure, or request.
+- Requests from customer employees:
+    - Identify each workforce member who needs to access PHI.
+    - Limit the PHI provided on a “need-to-know” basis.
+- Requests from Catalyze or any vendor doing business with customers who have PHI data:
+    - Given the business we are in, we should not have to request access to any PHI data
+    - If for some specific purpose, PHI data is requested, then you should limit the PHI provided to what is needed to accomplish the purpose for which the request was made and no more.
+
+
+
 ##What Uses or Disclosures of PHI Are Permitted by Law?
 This following section is for informational purposes only. As a general policy (there might be exceptions as continue to grow and evolve in services provided in which case, you will be explicitly informed), you, as an employee of Catalyze do not need access to PHI.
 
