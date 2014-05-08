@@ -2,12 +2,12 @@
 
 Well, for three key reasons:
 
-###It is the right thing to to
+###1. It is the right thing to do
 
-###The cloud
+###2. The cloud
 With an increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy guidelines / standards need to be put into place.
 
-###There are heavy penalties for violating it.
+###3. There are heavy penalties for violating it.
 
 If the OCR finds an organization to be in violation, the following actions may take place:
 - Voluntary compliance;

@@ -23,7 +23,7 @@ The training covers the following topics:
 * How does Catalyze address compliance.
 
 *********************
-We are in the business of providing a compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
+We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
 
 
 So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
