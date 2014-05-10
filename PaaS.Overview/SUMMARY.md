@@ -4,8 +4,8 @@
     * [The PaaS Customer Pod](The PaaS Customer Pod.md)
     * [The PaaS Management Pod](The PaaS Management Pod.md)
     * [The PaaS APIs](The PaaS APIs.md)
-    * The Security Framework
-    * Communicating Between Containers
+    * [The Security Framework](The Security Framework.md)
+    * [Communicating Between Containers](Communicating Between Containers.md)
 * [The Customer Deployment Process](The Customer Deployment Process.md)
     * [Application Build Definition](Application Definition.md)
     * [Organization Definition and Permissions](Organization Definition and Permissions.md)

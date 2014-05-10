@@ -1,7 +1,8 @@
 CACHE MANIFEST
-# Revision 1399585924969
+# Revision 1399680032521
 
 CACHE:
+Preventing Breaches.html
 Business Associates.html
 Catalyze Breach Policy.html
 Covered Entities.html
@@ -20,7 +21,6 @@ Key contacts and roles.html
 Notifications.html
 Penalties.html
 Physical Access.html
-Preventing Breaches.html
 Quiz.html
 index.html
 Sanctions.html
@@ -28,9 +28,9 @@ Security.html
 Subcontractors.html
 System Access.html
 Technical Security.html
-Understanding PHI.html
 What Does It Mean For You.html
-Why All the fuss about HIPAA?.html
+Understanding PHI.html
+Why all the fuss about HIPAA.html
 baa/README.html
 hipaa_basics/README.html
 hipaa_basics/organization.html
@@ -41,8 +41,8 @@ hipaa_sections/hitech.html
 hipaa_sections/privacy.html
 hipaa_sections/security.html
 phi/README.html
-phi/elements.html
 phi/anonymize.html
+phi/elements.html
 gitbook/app.js
 gitbook/fonts/anonymouspro/400.woff
 gitbook/fonts/anonymouspro/400i.woff

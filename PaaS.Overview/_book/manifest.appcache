@@ -1,8 +1,8 @@
 CACHE MANIFEST
-# Revision 1399617885956
+# Revision 1399671427855
 
 CACHE:
-Included: Nagios Monitoring.html
+Multi-zone Support .html
 Application Definition.html
 Backup.html
 Billing.html
@@ -16,7 +16,7 @@ Dev Org Authorization.html
 Disaster Recovery.html
 Git Clone.html
 Image Creation, Storage & Retrieval.html
-Multi-zone Support .html
+Included: Nagios Monitoring.html
 Optional: IDS etc..html
 Optional: Logging.html
 Organization Definition and Permissions.html
@@ -25,8 +25,9 @@ Scaling.html
 Support.html
 The Catalyze PaaS Architecture.html
 The Customer Deployment Process.html
-The PaaS Management Pod.html
+The PaaS APIs.html
 The PaaS Customer Pod.html
+The PaaS Management Pod.html
 VPN.html
 Web UI for PaaS.html
 e2e Testing for Infra.html

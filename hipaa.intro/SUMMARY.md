@@ -1,7 +1,7 @@
 # Summary
 
 * [HIPAA Basics](hipaa_basics/README.md)
-    * [Why All the fuss about HIPAA?](Why All the fuss about HIPAA?.md)
+    * [Why all the fuss about HIPAA](Why all the fuss about HIPAA.md)
     * [Organization of this tutorial](hipaa_basics/organization.md)
 * [HIPAA Entities](hipaa_entities/README.md)
     * [Covered Entities](Covered Entities.md)
