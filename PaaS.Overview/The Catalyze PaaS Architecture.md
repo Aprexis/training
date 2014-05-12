@@ -1,6 +1,6 @@
 # The Catalyze PaaS Architecture
 
-*Source: Mike Ortiz, Adam Leko, Nick Mistry*
+*Source: Mike Ortiz*
 
 
 ##Introduction
