@@ -1,3 +1,0 @@
-# Capturing Metrics
-
-ORTIZ / KUNZE

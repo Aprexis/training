@@ -1,3 +1,0 @@
-# Developer / Org Authentication
-
-ORTIZ

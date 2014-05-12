@@ -1,4 +1,0 @@
-# Developer / Org Authorization
-
-
-ORTIZ
