@@ -2,6 +2,8 @@
 
 ##Key Points
 
+* Develop a simple way to track changes to policies, organization, and technology.
+* Make these tools for tracking available, and known, throughout your organization.
 
 ##What and how to track
 
@@ -16,7 +18,9 @@ What we did not fully appreciate was the amount of additional tracking that is r
 * reporting of incidents; and
 * a host of other things related both to information security and data privacy.
 
-We did not discover an app for all of this. Compliance management tools are new, and all of the ones we found only get you to a risk assessment. Risk assessments are necessary, but they are not everything.
+We did not discover an app for all of this. Compliance management tools are new, and all of the ones we found only get you to a risk assessment. Risk assessments are necessary, but they are not everything and do not solve key areas you will need to address for an audit.
+
+##Organizational Tracking at Catlayze
 
 What we do at Catalyze is use Google Spreadsheets to create the necessary forms for tracking ongoing compliance- and security-related things. These are all a part of a compliance folder that is readable by only our Privacy Officer and Security Officer. And they are part of checklists that, not surprisingly, are also Google Spreadsheets and Forms. We then use Google Calendar to schedule regular reviews and link the calendar events to the Forms. It works well, though it's hardly repeatable and not something we can open source.
 

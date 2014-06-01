@@ -1,7 +1,9 @@
 # Business Associate Agreements (BAAs)
 
 ##Key Points
-
+* BAAs are contracts that outline obligations of each party related to HIPAA security rules.
+* New HIPAA rules, as of 2013, require business associates to have BAAs with subcontractors that *create, receive, maintain, or transmit* ePHI.
+* This is a checking-the-box-step.
 
 ##BAAs
 
@@ -23,4 +25,6 @@ We spent a lot of time and a lot of money with our attorneys on our BAAs because
 
 If you boil it down, business associate agreements are just contracts that outline the ways in which different organizations are going to handle electronic protected health information (ePHI), the types of responsibilities that those organizations take on, some of the very specific rules around their obligations with regards to HIPAA. This last one, the obligations of subcontractors, is an area in which you want to pay close attention. Specifically read what the subcontractors obligations are in terms of timeliness of breach notification, because that was a part of the changes in the HIPAA Omnibus Rule that just went into effect. We have had several early customers come to us because the time period for breach notifications with their existing hosting provider is not acceptable for covered entities they are selling into. We've talked to several companies that have run into roadblocks with enterprises because their business associate agreements with their hosting providers had been out of line, and especially relating to breach notification. Our policy at Catalyze is breach notification within 4 hours, along with some very detailed [plans](https://catalyze.io/hipaa#notification-in-the-case-of-breach---13402(a)-and-13402(b)) to help you mitigate the risk of a breach.
 
-At a high level, that's what business associate agreements are and you are expected to have those for all of the various technology and services companies that you work with that might in some way interact, process, store, or have access to ePHI. If you're a business associate or you're a covered entity, we happily sign BAAs. And if you're interested in seeing one of our BAAs, we publish it [here](https://catalyze.io/policy/#catalyze-hipaa-business-associate-agreement-(“baa”)).
+At a high level, that's what business associate agreements are and you are expected to have those for all of the various technology and services companies that you work with that might in some way interact, process, store, or have access to ePHI.
+
+If you're a business associate or you're a covered entity, we happily sign BAAs. And if you're interested in seeing one of our BAAs, we publish it [here](https://catalyze.io/policy/#catalyze-hipaa-business-associate-agreement-(“baa”).

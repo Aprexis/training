@@ -1,5 +1,15 @@
 # What is HIPAA?
 
+##Key Points
+* HIPAA is a set of definitions and rules, published by the US government, on the privacy and security of health information.
+* HIPAA defines, at a very high level:
+  * what protected health information (PHI) is;
+  * the authorized uses and disclosures of health information;
+  * the penalties for violations;
+  * the technical and organization requirements for entities working with PHI.
+
+##What is HIPAA?
+
 This assumes no prior knowledge of HIPAA and is meant to present a very high level snapshot of what HIPAA is and who it impacts.
 
 HIPAA stands for the **H**ealth **I**nsurance **P**ortability and **A**ccountability Act. If you're not familiar with HIPAA, or you haven't spent a lot of time in the healthcare industry, you may not realize that spelling "HIPAA" wrong is a running joke.

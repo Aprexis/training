@@ -1,6 +1,14 @@
 # HIPAA + Cloud
 
-The [HIPAA Omnibus Rule](hipaa_sections/hitech.md) that went into effect in 2013 changed the landscape of HIPAA. It created a new name for business associate called a "subcontractor". In much the same way a business associate processes, transmits, or stores ePHI for a [covered entities](http://catalyze.io/blog/compliance/hipaa-101-a-primer/), a subcontractor processes, transmits, or stores ePHI for a business associate.
+##Key Points
+
+* New rules require all cloud vendors that store, process, or transmit PHI to sign BAAs.
+* Paradigms shifts in technology mean that each business associate likely has 1 or more subcontractors.
+* There is a complete lack of transparency when it comes to compliance and cloud, which only serves to hurt adoption of cloud in healthcare.
+
+##HIPAA + Cloud = Murky
+
+The HIPAA Omnibus Rule that went into effect in 2013 changed the landscape of HIPAA. It created a new name for business associate called a "subcontractor". In much the same way a business associate processes, transmits, or stores ePHI for a [covered entities](http://catalyze.io/blog/compliance/hipaa-101-a-primer/), a subcontractor processes, transmits, or stores ePHI for a business associate.
 
 It's easier to just consider them a business associate of a business associate. And subcontractors are required to sign business associate agreements (BAAs). We get asked a lot about subcontractors and BAAs by customers and prospects.
 
@@ -10,4 +18,4 @@ What happening now are that chains of BAAs are being developed. These chains typ
 
 Here's a fake, but very typical example, of a chain of BAAs. Hospital A wants to add telemedicine so that its patients can access providers. It decides to go with Vendor A, which has a software platform for telemedicine. Vendor A signs a contract and a business associate agreement with Hospital A. Vendor A runs its software on servers from a cloud infrastructure provider called Cloud 1. Cloud 1 is a subcontractor of Vendor A, so Cloud 1 and Vendor A have their own business associate agreement. It's very likely that Hospital A will want to review the BAA that Cloud 1 and and Vendor A have, to assure all risk and technical requirements of HIPAA are properly covered.
 
-It's probably easier to lay out some definitions for cloud computing.
+Next we lay out some definitions for cloud computing.
