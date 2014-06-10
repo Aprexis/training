@@ -14,7 +14,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 
 ###Prevent Unauthorized Access to Facilities and Secure Areas
 
-- Keep doors locked and restrict access to areas where sensitive information or equipment is kept. As discussed earlier, you should no PHI on your laptops. Do not post keypad access codes.
+- Keep doors locked and restrict access to areas where sensitive information or equipment is kept. As discussed earlier, you should not have PHI on your laptops. Do not post keypad access codes.
 - Shield the key strokes when entering an access code to prevent others from seeing the code.
 - Follow the same guidelines for facility access as you would for password, including changing codes periodically; using complex codes that are not obvious; not sharing your access code or access badge; and, not allowing others to use your access rights to enter a facility or secure area.
 - Do not allow others to “tailgate”, or follow you into a restricted area.

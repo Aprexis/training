@@ -2,10 +2,6 @@ This area of HIPAA relates to the accepted coding for data exchanged in healthca
 
 Here's a quick overview of these code sets and their intended function.
 
-This area of HIPAA relates to the accepted coding for data exchanged in healthcare. The transactions this applies to are financial related (claims, eligibility, enrollment, etc). As the name implies, the intent is to make it administratively easier to exchange data by not having to keep track of an endless number of code sets. The common code sets range from X12 or NCPDP (pharmacy-related) and include DRG, ICD, CPT, NDC, SNOMED-CT, and LOINC amongst others.
-
-Here's a quick overview of these code sets and their intended function.
-
 They are all linked to the appropriate browsers where possible so that you can get a better idea as to what they look like.
 
 * SNOMED-CT or Systematized Nomenclature of Medicine - Clinical Terms: SNOMED-CT is a comprehensive vocabulary that covers almost every aspect of clinical care - ranging from anatomy to diagnoses to observations and procedures. SNOMED-CT requires a licenses but since the US is a participating country in [IHTSDO](http://www.ihtsdo.org/), it can be used freely after accepting a simple license agreement. There are no fees to use this in any commercial application.(see the download link for more info).
