@@ -2,9 +2,10 @@
 
 ##Key Points
 
-* New rules require all cloud vendors that store, process, or transmit PHI to sign BAAs.
-* Paradigms shifts in technology mean that each business associate likely has 1 or more subcontractors.
+* New rules require all cloud vendors that maintain, process, or transmit ePHI to sign BAAs.
+* Paradigm shifts in technology mean that each business associate likely has 1 or more subcontractors (APIs, hosting, blank-as-a-service).
 * There is a complete lack of transparency when it comes to compliance and cloud, which only serves to hurt adoption of cloud in healthcare.
+* You will get asked by healthcare organizations for detailed information about how your compliant, so understanding cloud and compliance going in will help you.
 
 ##HIPAA + Cloud = Murky
 

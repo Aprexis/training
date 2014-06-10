@@ -1,5 +1,3 @@
-# Why the fuss?
-
 # Why All the fuss about HIPAA
 
 Well, for three key reasons:

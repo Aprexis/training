@@ -4,4 +4,8 @@
 
 ##Policies
 
+Revisit annually.
+
 ##Catalyze Policies
+
+HIPPACow.

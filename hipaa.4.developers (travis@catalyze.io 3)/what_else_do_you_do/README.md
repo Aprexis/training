@@ -1,4 +1,4 @@
-# What else do you have to do?
+# Technical Requirements
 
 We're pretty far into this book and we're really just now getting to the technical stuff. At this point you've drafted a ton of documentation, have a compliant hosting provider (and hopefully a BAA), you've done a risk assessment, and now you're actually ready to implement strong information security practices into your technology.
 

@@ -3,7 +3,7 @@
 ##Key Points
 
 * Most IaaS vendors assume very little risk under HIPAA.
-* Most IaaS vendors have very few obligations in their BAAs, putting the lions share on customers.
+* Most IaaS vendors have very few obligations in their BAAs, putting the lions share of risk and obligations on customers/developers.
 
 ##Things to consider
 

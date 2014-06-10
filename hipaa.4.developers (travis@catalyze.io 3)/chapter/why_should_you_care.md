@@ -2,8 +2,8 @@
 
 ##Key Points
 
-* If you're *selling* into healthcare organizations, they are invariably going to err on the side of caution and want assurances that your compliant.
-* If you're *developing* healthcare technology to operate in a compliant market, you are exposing yourself to risk as there are financial penalties for HIPAA violations and breaches.
+* If you're **selling** into healthcare organizations, they are invariably going to err on the side of caution and want assurances that your compliant.
+* If you're **developing** healthcare technology to operate in a compliant market, you are exposing yourself to risk as there are financial penalties for HIPAA violations and breaches.
 
 ##Why it matters to you?
 
