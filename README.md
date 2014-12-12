@@ -1,44 +1,37 @@
-#Introduction to HIPAA Training
+# Catalyze Employees Wiki
 
-* **Intended Audience**: All new workforce members
-* **Intended Frequency**: Annually
+![Screen Shot](http://i.imgur.com/JnIUmym.png)
 
-**********************
+### Local Setup
 
-##Summary of Training
-This is an overview training of HIPAA, with coverage of key definitions and provisions for the handing of HIPAA-relevant data. The material in this book is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
+**Requirements**
 
-The training covers the following topics:
+- Ruby -v 1.9.3 or newer, *I highly recommend using [RVM](http://rvm.io/)*
+- Bundler, `sudo gem install bundler`
+- Middleman gem, `sudo gem install middleman`
+- Sass, `sudo gem install sass`
 
-* Types of entities HIPAA defines;
-* What is PHI;
-	* How is PHI anonymized;
-* Understanding of the various sections of safegaurds in the Technical Rule;
-* What is a business associate agreement;
-	* How is risk inherited with different levels of technology;
-* What is a breach and how is a breach handled;
-* How did the HITECH Act change HIPAA;
-* What is expected of workforce members with acess to systems that store PHI;
-	* What are the sanctions for knowingly violating HIPAA;
-* How does Catalyze address compliance.
+**Setup**
 
-*********************
-We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
+- Clone this repo, `git clone https://github.com/catalyzeio/catalyze-internal-wiki.git`
+- Navigate to this repo, `cd catalyze-internal-wiki`
+- Install gems, `bundle install` or `sudo bundle install` or if you have RVM simply run `bundle`
+- Run the server, `middleman`
+- View the site locally, `http://0.0.0.0:4567/`
+
+### Deploy
+
+- Todo
 
 
-So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
+### Features
 
-*We should treat personal electronic data with the same care and respect as weapons-grade plutonium -- it is dangerous, long-lasting and once it has leaked, there's no getting it back.*
+**Built in**
 
-The goal of this training is to ensure that you understand the importance (and ways) of protecting sensitive data and apply it regularly both at your work and in your personal life. This training is important because it will educate you on:
-1. Ways to prevent accidental and intentional misuse of senstitive data
-2. Ways to make sensitive data secure without it being too onerous
-3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our customers have entrusted us with their and their customers sensitive data and we have a duty to protect that to the best of our abilities.
-4. There are significant penalties associated with non-compliance to organizations and employees of those organizations. Lack of attention will impact not only us but our customers.
-
-So please - take the time to read through this carefully.
-
-
-*********************
-
-Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@catalyze.io](training@catalyze.io) with any questions or problems accessing the training.
+- Search
+- Markdown
+- HTML
+- ERB
+- Syntax highlighting
+- Mobile Styles
+	- ![Mobile](http://cdn2.dropmark.com/45280/1e931cdf9e33c3f420ad481cd42be6a6683b6f7c/catalyze-internal-wiki-mobile.gif)

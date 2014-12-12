@@ -18,9 +18,9 @@ We devoted an entire post to "[What is PHI?](http://www.catalyze.io/blog/complia
 PHI can be de-identified by removing certain elements from the data, in a process called the [Safe Harbor](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html#safeharborguidance) method, or through "[expert determination](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html#guidancedetermination)", which seems a bit fuzzy to us as it is ripe for interpretation. The idea with both methods for de-identification is to make it so you can't identify an individual from a data set (duh!).
 
 ##Use or disclosing of PHI
-PHI can only be disclosed for reasons defined by the Privacy Rule, or with written permission by an individual about their own health information. Other than providing access to the individual to his/her medical record, the Privacy Rule allows for disclosing PHI for three main reasons: 
+PHI can only be disclosed for reasons defined by the Privacy Rule, or with written permission by an individual about their own health information. Other than providing access to the individual to his/her medical record, the Privacy Rule allows for disclosing PHI for three main reasons:
 
-1. *Treatment.* Probably the most obvious reason for disclosure, exchanging PHI between providers for treatment, management, and consultation happens all the time. 
+1. *Treatment.* Probably the most obvious reason for disclosure, exchanging PHI between providers for treatment, management, and consultation happens all the time.
 2. *Payment.* In order to collect payments from insurers, disclosure of PHI is essential.
 3. *Operations.* We think of this as the catch-all bucket. It encompasses many administrative functions such as quality reporting and different types of operational analytics. This is also where disclosures for medical education fall in.
 
