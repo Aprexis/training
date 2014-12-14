@@ -4,4 +4,4 @@ Catalyze implements an information security incident response process to consist
 
 Your responsibilities in this context are:
 - If you detect any unauthorized or suspicious activity / access of our (or our customers systems) that has not been detected by the IDS or other protections, then immediately report it to management, the Security Officer or Privacy Officer.
-- Since you detected the event, you might be called upon to be part of the Security Incident Response Team [SIRT](https://catalyze.io/policy/#security-incident-response-team-(sirt&#41;)
+- Since you detected the event, you might be called upon to be part of the Security Incident Response Team [SIRT](https://policy.catalyze.io/#incident-response-policy)

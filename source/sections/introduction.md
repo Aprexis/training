@@ -31,6 +31,7 @@ So why is HIPAA training important? The rationale is best explained by this quot
 *We should treat personal electronic data with the same care and respect as weapons-grade plutonium -- it is dangerous, long-lasting and once it has leaked, there's no getting it back.*
 
 The goal of this training is to ensure that you understand the importance (and ways) of protecting sensitive data and apply it regularly both at your work and in your personal life. This training is important because it will educate you on:
+
 1. Ways to prevent accidental and intentional misuse of senstitive data
 2. Ways to make sensitive data secure without it being too onerous
 3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our customers have entrusted us with their and their customers sensitive data and we have a duty to protect that to the best of our abilities.
@@ -41,4 +42,4 @@ So please - take the time to read through this carefully.
 
 *********************
 
-Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@catalyze.io](training@catalyze.io) with any questions or problems accessing the training.
+Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@catalyze.io](mailto:training@catalyze.io) with any questions or problems accessing the training.
