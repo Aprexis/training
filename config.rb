@@ -18,13 +18,3 @@ configure :build do
   activate :minify_javascript
   activate :asset_hash
 end
-
-activate :deploy do |deploy|
-  deploy.build_before = true
-  deploy.method   = :sftp
-  deploy.host     = 'wiki.catalyze.io'
-  deploy.port     = 22
-  deploy.path     = '/opt/catalyze_wiki'
-  deploy.user     = 'wikiuser'
-  deploy.password = 'sku(!8asdf_)1FF'
-end
