@@ -1,4 +1,4 @@
-# Catalyze Traning Docs
+# Catalyze Training Docs
 
 The Catalyze Training Docs are a series of files outlining how Catalyze handles employee related training for HIPAA compliance.
 
