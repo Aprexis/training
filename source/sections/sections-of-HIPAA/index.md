@@ -1,4 +1,4 @@
-HIPAA, at it's highest level, is divided into 3 broad areas.
+HIPAA, at its highest level, is divided into 3 broad areas.
 
 1. **HIPAA Privacy Rule**. This portion of HIPAA deals with protection, access, and authorization related to PHI. It sets rules for when and how PHI is disclosed. It also gives individuals ownership of their health records, as well as the right to access them and request corrections to them.
 

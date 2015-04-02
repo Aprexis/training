@@ -1,6 +1,6 @@
 # Security
 
-This set of questions will help you guage your understanding of the physical security requirements under HIPAA and the Catalyze policies in place to meet them.
+This set of questions will help you gauge your understanding of the physical security requirements under HIPAA and the Catalyze policies in place to meet them.
 
 
 ---
@@ -15,7 +15,7 @@ It is ok to walk away from you computer without locking it or logging off
 - [ ] `Yes`
 - [x] `No`
 
-> Your computer may contain senstive data - ssh keys, passwords. Always lock your computer at the minimum before stepping away even if it's for a few minutes. Since we are all issued Macs, please close the lid and ensure that a login prompt comes up when re-opened.
+> Your computer may contain sensitive data - SSH keys, passwords. Always lock your computer at the minimum before stepping away even if it's for a few minutes. Since we are all issued Macs, please close the lid and ensure that a login prompt comes up when re-opened.
 
 It is optional to encrypt my laptop's disk.
 - [ ] `Yes`

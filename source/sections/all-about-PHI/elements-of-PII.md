@@ -17,12 +17,12 @@ Obviously protection and privacy come into play once the individual can / has be
 		<tr>
 			<td>1</td>
 			<td width="250px">Name</td>
-			<td>Well, of course i.e. first name, last name, maiden name combinations. One could argue that just any <strong>one</strong> of the above doesn&#39;t uniquely identify an individual after all &quot;James&quot; is a pretty common name. But it could be possible to identify an individual using a combination of data i.e. first name, zipcode, street address etc.</td>
+			<td>Well, of course i.e. first name, last name, maiden name combinations. One could argue that just any <strong>one</strong> of the above doesn&#39;t uniquely identify an individual after all &quot;James&quot; is a pretty common name. But it could be possible to identify an individual using a combination of data i.e. first name, zip code, street address etc.</td>
 		</tr>
 		<tr>
 			<td>2</td>
 			<td>Geographic locators</td>
-			<td>Everything (street address, city, precinct, zipcode, lat long coordinates etc.) are considered PII. The first three digits of the zipcode are usually considered ok for use except in the case of certain zipcodes which cover a small population (less than 20,000). There are currently 17 zipcodes that fit that profile - 036, 692, 878, 059, 790, 879, 063, 821, 884, 102, 823, 890, 203, 830, 893, 556, 831. So three digit zipcodes are ok to be used except for the above listed ones.</td>
+			<td>Everything (street address, city, precinct, zip code, lat long coordinates etc.) are considered PII. The first three digits of the zip code are usually considered ok for use except in the case of certain zip codes which cover a small population (less than 20,000). There are currently 17 zip codes that fit that profile - 036, 692, 878, 059, 790, 879, 063, 821, 884, 102, 823, 890, 203, 830, 893, 556, 831. So three digit zip codes are ok to be used except for the above listed ones.</td>
 		</tr>
 		<tr>
 			<td>3</td>
