@@ -1,6 +1,6 @@
 # Protecting Health Information
 
-This set of questions is to help you guage your understanding of the privacy rule and the regulations governing protected health information and the Catalyze policies in place to address them.
+This set of questions is to help you gauge your understanding of the privacy rule and the regulations governing protected health information and the Catalyze policies in place to address them.
 
 ---
 
@@ -68,7 +68,7 @@ What are examples of protected health information that might be connected to an 
 - [x] `Date of Birth`
 - [ ] `Gender`
 
-> Zipcodes (except for a small set) cannot be used to uniquely identify an individual. Neither can gender.
+> Zip codes (except for a small set) cannot be used to uniquely identify an individual. Neither can gender.
 
 Who protects PHI?
 - [x] `The government`

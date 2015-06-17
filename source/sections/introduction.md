@@ -13,12 +13,12 @@ The training covers the following topics:
 * Types of entities HIPAA defines;
 * What is PHI;
 	* How is PHI anonymized;
-* Understanding of the various sections of safegaurds in the Technical Rule;
+* Understanding of the various sections of safeguards in the Technical Rule;
 * What is a business associate agreement;
 	* How is risk inherited with different levels of technology;
 * What is a breach and how is a breach handled;
 * How did the HITECH Act change HIPAA;
-* What is expected of workforce members with acess to systems that store PHI;
+* What is expected of workforce members with access to systems that store PHI;
 	* What are the sanctions for knowingly violating HIPAA;
 * How does Catalyze address compliance.
 
@@ -32,7 +32,7 @@ So why is HIPAA training important? The rationale is best explained by this quot
 
 The goal of this training is to ensure that you understand the importance (and ways) of protecting sensitive data and apply it regularly both at your work and in your personal life. This training is important because it will educate you on:
 
-1. Ways to prevent accidental and intentional misuse of senstitive data
+1. Ways to prevent accidental and intentional misuse of sensitive data
 2. Ways to make sensitive data secure without it being too onerous
 3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our customers have entrusted us with their and their customers sensitive data and we have a duty to protect that to the best of our abilities.
 4. There are significant penalties associated with non-compliance to organizations and employees of those organizations. Lack of attention will impact not only us but our customers.
