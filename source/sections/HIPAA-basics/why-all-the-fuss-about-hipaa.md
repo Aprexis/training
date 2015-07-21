@@ -12,7 +12,7 @@ With an increasing move to this amorphous entity called the cloud, with its asso
 If the OCR finds an organization to be in violation, the following actions may take place:
 - Voluntary compliance;
 - Corrective action; and/or
-- Resolution agreement.
+- Resolution agreement
 
 There are monetary penalties associated with HIPAA violations, and the amounts of such violations were raised considerably last year as part of the HIPAA Omnibus Rule included in the HITECH act. The current financial penalties are listed below. Previous to these new rules, the fine associated with each HIPAA violation was capped at $25,000. This number is now **$1.5 million per violation**.
 
