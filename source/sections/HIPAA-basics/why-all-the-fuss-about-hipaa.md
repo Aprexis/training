@@ -16,12 +16,7 @@ If the OCR finds an organization to be in violation, the following actions may t
 
 There are monetary penalties associated with HIPAA violations, and the amounts of such violations were raised considerably last year as part of the HIPAA Omnibus Rule included in the HITECH act. The current financial penalties are listed below. Previous to these new rules, the fine associated with each HIPAA violation was capped at $25,000. This number is now **$1.5 million per violation**.
 
-<style type="text/css">.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
-.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
-.tftable tr {background-color:#ffffff;}
-.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;}
-</style>
-<table border="1" class="tftable">
+<table>
 	<tbody>
 		<tr>
 			<th>Violation Category - Section 1176(a)(1)</th>
