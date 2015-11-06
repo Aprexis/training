@@ -13,8 +13,8 @@ The Catalyze HIPAA Training docs are built using [Middleman](https://middlemanap
 
 Once you have Middleman installed and working you can complete the following to get a working copy of these docs on your local machine:
 
-- `git clone https://github.com/catalyzeio/legal.git`
-- `cd legal`
+- `git clone https://github.com/catalyzeio/training.git`
+- `cd training`
 - `bundle install`
 
 **Commands:**
