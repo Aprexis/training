@@ -10,17 +10,17 @@ This is an overview training of HIPAA, with coverage of key definitions and prov
 
 The training covers the following topics:
 
-* Types of entities HIPAA defines
-* What is PHI
-	* How is PHI anonymized
-* Understanding of the various sections of safegaurds in the Technical Rule
-* What is a business associate agreement
-	* How is risk inherited with different levels of technology
-* What is a breach and how is a breach handled
-* How did the HITECH Act change HIPAA
-* What is expected of workforce members with acess to systems that store PHI
-	* What are the sanctions for knowingly violating HIPAA
-* How does Catalyze address compliance
+* Types of entities HIPAA defines;
+* What is PHI;
+	* How is PHI anonymized;
+* Understanding of the various sections of safegaurds in the Technical Rule;
+* What is a business associate agreement;
+	* How is risk inherited with different levels of technology;
+* What is a breach and how is a breach handled;
+* How did the HITECH Act change HIPAA;
+* What is expected of workforce members with acess to systems that store PHI;
+	* What are the sanctions for knowingly violating HIPAA;
+* How does Catalyze address compliance.
 
 *********************
 We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
