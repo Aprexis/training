@@ -1,20 +1,25 @@
-# Catalyze Training Docs
+# Catalyze Legal Docs
 
-The Catalyze Training Docs are a series of files outlining how Catalyze handles employee related training for HIPAA compliance.
+![status](https://codeship.com/projects/17469470-49e5-0133-1e8a-02da4d06d74f/status?branch=master)
 
-We encourage contributions and adaption to this project. For guidelines on how to contribute please see the `CONTRIBUTING.md` file.
+The Catalyze Legal Docs exist to outline Catalyze, Inc's terms of service as well as other legal documentation pertaining to, but not restricted to, Catalyze products, software, web documentation or otherwise. These docs have been open sourced in order to help the health IT community grow and improve patient care through secure, usable software.
 
-### Local Setup
+- The license for these docs can be found [here](https://github.com/catalyzeio/legal/blob/master/LICENSE.md%20)
+- The contributing guidelines can be found [here](https://github.com/catalyzeio/legal/blob/master/CONTRIBUTING.md)
 
-The core value of this repository is located in the form of markdown files. These can be found in: `/source/sections`. You can pull these files down and view them in any markdown editor ([mou](http://25.io/mou/), [sublime text plugin](https://github.com/revolunet/sublimetext-markdown-preview)). For viewing the files like you see [here](//hipaa.catalyze.io) please see the following instructions:
+# Getting Started
 
-**Running the site locally**
+The Catalyze Legal docs are built using [Middleman](https://middlemanapp.com/), a static site generator. Please follow the [installation instructions](https://middlemanapp.com/basics/install/) for Middleman before continuing.
 
-[training.catalyze.io](//hipaa.catalyze.io) was built using [Middleman](//middlemanapp.com), a static site generator. To use middleman locally or on your website you'll first need to install Ruby and Ruby Gems. Once you have your ruby environment setup you can continue installing middleman:
+Once you have Middleman installed and working you can complete the following to get a working copy of these docs on your local machine:
 
-- Fork this repository
-- `git clone https://github.com/USERNAME/training.git`
-- `cd training`
-- `bundle install` or `bundle exec install`
+- `git clone https://github.com/catalyzeio/legal.git`
+- `cd legal`
+- `bundle install`
 
-Once the previous commands have executed error free you can run the site locally using `middleman`. The site can be found here at `http://localhost:4567`. To build the static site you can run `middleman build`. This will output the assets and index file into the `build` directory. From here you can host the static files on your server. We do ask that you change the logo to your own and change brand colors where appropriate.
+**Commands:**
+
+- `rake build` generates the static HTML, CSS, and JavaScript files
+- `rake run` allows you to view the site locally
+- `rake sass` compiles styles changes
+- `rake serve_static` runs a simple web server in the build directory
