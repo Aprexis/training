@@ -26,4 +26,4 @@ Once you have Middleman installed and working you can complete the following to 
 
 **Deployment:**
 
-Commits to master are automatically deployed to `training.catalyze.io` via Codeship.
+Commits to master are automatically deployed to `training.catalyze.io` via Codeship
