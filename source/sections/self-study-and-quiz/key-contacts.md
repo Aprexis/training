@@ -1,59 +1,77 @@
-# Key Contacts
+## Key Contacts
 
 This is to ensure that you know whom to reach out to in case you have any questions or concerns.
 
-----
 Who is the Chief Privacy Officer?
-- [ ] Brian Lewis
-- [ ] Ben Uphoff
-- [ ] Adam Leko
-- [x] Travis Good
 
-> Travis Good is the Chief Privacy Officer.
+- <input type="checkbox"> Vincent Kenney
+- <input type="checkbox"> Mohan Balachandran
+- <input type="checkbox"> Adam Leko
+- <input type="checkbox"> Travis Good
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>Travis Good is the Chief Privacy Officer.</p></blockquote>
+</div>
 
 Who is the Chief Security Officer?
-- [ ] Mike Ortiz
-- [x] Ben Uphoff
-- [ ] Adam Leko
-- [ ] Travis Good
 
-> Ben Uphoff is the Chief Security Officer.
+- <input type="checkbox"> Mike Ortiz
+- <input type="checkbox"> Mohan Balachandran
+- <input type="checkbox"> Adam Leko
+- <input type="checkbox"> Travis Good
 
-
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>Adam Leko is the Chief Security Officer.</p></blockquote>
+</div>
 
 You have questions and concerns about training - compliance or security related. You should reach out to:
-- [x] `Chief Privacy Officer`
-- [ ] `Chief Product Officer`
-- [ ] `Your manager`
-- [ ] `Chief Security Officer`
 
-> All training related concerns should be communicated either to the Chief Privacy Officer or your manager.
+- <input type="checkbox"> `Chief Privacy Officer`
+- <input type="checkbox"> `Chief Product Officer`
+- <input type="checkbox"> `Your manager`
+- <input type="checkbox"> `Chief Security Officer`
 
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>All training related concerns should be communicated either to the Chief Privacy Officer or your manager.</p></blockquote>
+</div>
 
 You receive some questions about the Catalyze BAA from one of our customers. You should reach out to:
 
-- [x] `Chief Privacy Officer`
-- [ ] `Chief Product Officer`
-- [ ] `Account Manager`
-- [ ] `Chief Security Officer`
+- <input type="checkbox"> `Chief Privacy Officer`
+- <input type="checkbox"> `Chief Product Officer`
+- <input type="checkbox"> `Account Manager`
+- <input type="checkbox"> `Chief Security Officer`
 
-> All BAA related questions should go to the Chief Privacy Officer. No changes should be made to any BAA without explicit consent / authorization from him / her. It is also fine to route this request to the Officer via the Account Manager or your direct manager
-
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>All BAA related questions should go to the Chief Privacy Officer. No changes should be made to any BAA without explicit consent / authorization from him / her. It is also fine to route this request to the Officer via the Account Manager or your direct manager</p></blockquote>
+</div>
 
 You notice or suspect a partner or an employee trying to access customer data. You should:
-- [ ] `Say nothing`
-- [x] `Report the activity to your supervisor for further follow-up`
-- [ ] `Approach the person yourself and inform them of the correct way to do things.`
-- [ ] `Watch the person closely in order to determine that you are correct with your suspicions.`
 
-> The correct thing to do is to notify your supervisor immediately.
+- <input type="checkbox"> `Say nothing`
+- <input type="checkbox"> `Report the activity to your supervisor for further follow-up`
+- <input type="checkbox"> `Approach the person yourself and inform them of the correct way to do things.`
+- <input type="checkbox"> `Watch the person closely in order to determine that you are correct with your suspicions.`
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>The correct thing to do is to notify your supervisor immediately.</p></blockquote>
+</div>
 
 In the above scenario, if the person you suspect is your supervisor, you should:
-- [ ] `Say nothing`
-- [x] `Report the activity to the Chief Security Officer`
-- [ ] `Report the activity to the Chief Privacy Officer`
-- [ ] `Watch the person closely in order to determine that you are correct with your suspicions.`
 
-> The CSO is responsible for all investigations of privacy and security policy violations
+- <input type="checkbox"> `Say nothing`
+- <input type="checkbox"> `Report the activity to the Chief Security Officer`
+- <input type="checkbox"> `Report the activity to the Chief Privacy Officer`
+- <input type="checkbox"> `Watch the person closely in order to determine that you are correct with your suspicions.`
+
+<div class="reveal-answer">
+	<button class="button">Reveal Answer</button>
+	<blockquote><p>The CSO is responsible for all investigations of privacy and security policy violations</p></blockquote>
+</div>
 
 ----

@@ -265,7 +265,7 @@ body{margin: 5px 0px 0px 0px;}
 	}
 	li.tocify-focus{a{color: $c_brand;}}
 	#toc{
-		max-height: 93%;
+		max-height: 92%;
 		overflow: scroll;
 		position: relative;
 		z-index: 0;
@@ -313,18 +313,6 @@ body{margin: 5px 0px 0px 0px;}
 		padding: 0px 0px 20px 0px;
 		position: relative;
 		color: $c_header;
-		&:after{
-			position: absolute;
-			right: 0px;
-			font-size: 10px;
-			color: $c_brand;
-			background-color: $c_bg;
-			border: 1px solid $c_border;
-			padding: 5px;
-			font-weight: 600;
-			content: "SECTION";
-			@include border-radius(5px);
-		}
 	}
 	h2{
 		font-size: 16px;
@@ -367,7 +355,6 @@ body{margin: 5px 0px 0px 0px;}
 		height: 1px;
 		border: 0;
 		border-top: 1px solid $c_border;
-		margin: 0px 0px 20px 0px;
 		padding: 0;
 	}
 	p{
@@ -420,4 +407,32 @@ body{margin: 5px 0px 0px 0px;}
 			}
 		}
 	}
+}
+// Reveal Answers
+.reveal-answer{
+	padding: 10px 10px 0px 10px;
+	margin: 0px 0px 10px 0px;
+	background-color: #fff;
+	border: 1px solid $c_border;
+	@include border-radius(5px);
+	button.button{
+		display: block;
+		margin: 0px 0px 10px 0px;
+		background-color: $c_brand;
+		text-align: center;
+		width: 150px;
+		padding: 10px;
+		color: #fff;
+		cursor: pointer;
+		border: 0px;
+		font-size: 14px;
+		font-family: $f_sans;
+		@include border-radius(5px);
+		@include easing(350ms);
+		&:hover{
+			@include easing(350ms);
+			background-color: lighten($c_brand, 10%);
+		}
+	}
+	blockquote{display: none;margin: 0px 0px 10px 0px;}
 }
