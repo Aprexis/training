@@ -1,7 +1,7 @@
 #Introduction to HIPAA Training
 
-* **Intended Audience**: All new workforce members
-* **Intended Frequency**: Annually
+* **Intended Audience**: All workforce members
+* **Intended Frequency**: Upon employee onboarding and annually
 
 **********************
 
@@ -34,7 +34,7 @@ The goal of this training is to ensure that you understand the importance (and w
 
 1. Ways to prevent accidental and intentional misuse of senstitive data
 2. Ways to make sensitive data secure without it being too onerous
-3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our customers have entrusted us with their and their customers sensitive data and we have a duty to protect that to the best of our abilities.
+3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our customers have entrusted us with their and their customers' sensitive data and we have a duty to protect that to the best of our abilities.
 4. There are significant penalties associated with non-compliance to organizations and employees of those organizations. Lack of attention will impact not only us but our customers.
 
 So please - take the time to read through this carefully.
