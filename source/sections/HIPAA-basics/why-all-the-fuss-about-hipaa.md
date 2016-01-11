@@ -7,7 +7,7 @@ Well, for three key reasons:
 ###2. The cloud
 With an increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy guidelines / standards need to be put into place.
 
-###3. There are heavy penalties for violating it.
+###3. There are heavy penalties for violating it
 
 If the OCR finds an organization to be in violation, the following actions may take place:
 - Voluntary compliance;
