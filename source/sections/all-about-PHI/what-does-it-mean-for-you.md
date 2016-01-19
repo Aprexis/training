@@ -24,7 +24,7 @@ The intention at every step should always be:
 
 
 ##What Uses or Disclosures of PHI Are Permitted by Law?
-This following section is for informational purposes only. As a general policy (there might be exceptions as continue to grow and evolve in services provided in which case, you will be explicitly informed), you, as an employee of Catalyze do not need access to PHI.
+This following section is for informational purposes only. As a general policy (there might be exceptions as we continue to grow and evolve in services provided in which case, you will be explicitly informed), you, as an employee of Catalyze do not need access to PHI.
 
 HIPAA allows covered entities (CE) to create, receive, access, use, or disclose PHI without patient authorization when the workforce member’s job duties involve certain activities. These activities include, but are not limited to:
 
