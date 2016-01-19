@@ -18,6 +18,6 @@ PHI can be in oral, written or electronic form.
 The core of the HIPAA regulations is to ensure that ownership of any and all medical data is retained solely by the individual. The individual can then decide to parcel out access to others - providers, family members, employers if needed or necessary or simply by preference of the record owner. Only an individual has the right to grant access to their medical data. This was mainly done for the following reasons:
 
 1. Privacy: Obviously we would prefer that our neighbor (or in some cases, family members) not know about whatever condition we might be suffering from or medication we are taking.
-2. Bias and discrimination: AIDS, mental health and other conditions have some (albeit declining) social stigma associated with it. The HIPAA PHI provisions ensure that employers and others do not have access to one’s medical record and use the information contained within to discriminate against the individual based on their health information.
+2. Bias and discrimination: AIDS, mental health and other conditions have some (albeit declining) social stigma associated with them. The HIPAA PHI provisions ensure that employers and others do not have access to one’s medical record and use the information contained within to discriminate against the individual based on their health information.
 
 [0]: http://en.wikipedia.org/wiki/Personally_identifiable_information
