@@ -87,7 +87,7 @@ Obviously protection and privacy come into play once the individual can / has be
 		<tr>
 			<td>15</td>
 			<td>Internet Protocol (IP) address numbers</td>
-			<td>Your IP address can be used to easily identify your address. There are several free services that offer this (do a quick google search for <a href="https://www.google.com/search?q=address+from+ip&amp;oq=address" rel="nofollow">address from ip</a> and try this as an <a href="http://www.geobytes.com/IpLocator.htm" rel="nofollow">example</a></td>
+			<td>Your IP address can be used to easily identify your address. There are several free services that offer this (do a quick google search for <a href="https://www.google.com/search?q=address+from+ip&amp;oq=address" rel="nofollow">address from ip</a> and try this as an <a href="http://geobytes.com/get-city-details-api/" rel="nofollow">example</a></td>
 		</tr>
 		<tr>
 			<td>16</td>
