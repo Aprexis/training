@@ -1,6 +1,6 @@
 # Key contacts and roles
 
-Catalyze has a Security Officer and Privacy Officer appointed to assist in maintaining and enforcing safegaurds towards compliance.
+Catalyze has a Security Officer and Privacy Officer appointed to assist in maintaining and enforcing safeguards towards compliance.
 
 **The Privacy officer for Catalyze Inc. is Travis Good**. You all have access to his email and phone number through our internal directory. Under this role, his responsibilities are to:
 
