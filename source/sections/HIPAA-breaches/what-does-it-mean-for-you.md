@@ -18,7 +18,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 - Shield the key strokes when entering an access code to prevent others from seeing the code.
 - Follow the same guidelines for facility access as you would for password, including changing codes periodically; using complex codes that are not obvious; not sharing your access code or access badge; and, not allowing others to use your access rights to enter a facility or secure area.
 - Do not allow others to “tailgate”, or follow you into a restricted area.
-- Turn in your keys and your laptop to your supervisor or HR when you leave Catalyze
+- Turn in your keys and your laptop to your supervisor or HR when you leave Catalyze.
 
 ###Prevent Unauthorized Access to and Disclosure of Electronic PHI
 - Create complex passwords with a minimum of eight characters--at least one number, symbol and/or one letter. Use a mixture of capital and lower case letters. Do not use consecutive identical characters or all alphabetical groups or consecutive characters on the keyboard (e.g., aaaaaa, 111111, qwerty).
@@ -32,7 +32,7 @@ Avoid discussing PHI in public areas, including talking on a cell phone where ot
 
 ###Provide Physical Security for Portable Computing and Storage Devices
 
-- Store confidential information such as PHI only on Catalyze’s secured network severs. Never store PHI on a laptop or other portable, endpoint device.
+- Store confidential information such as PHI only on Catalyze’s secured network servers. Never store PHI on a laptop or other portable, endpoint device.
 - Know where your portable devices (laptop, PDA, cell phone, hand-held device, mp3 player, flash or jump drive, CD or DVD, etc.) are at all times. Never check them as baggage or leave them unattended or unsecured at home, work, or in transit.
 - Whenever you leave your work area, make sure your laptop is secured by a locking cable, or securely locked in the docking station.
 - If you are leaving for the day, take the laptop or other device with you or lock it in a desk or cabinet. If your device is stolen or lost, immediately report the loss to your supervisor.
