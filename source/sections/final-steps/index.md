@@ -5,6 +5,6 @@ Thanks for going through this training and taking the quiz. We are doing this on
 
 If you have read through the manual and completed the quiz, please click on [this link](https://docs.google.com/a/catalyze.io/forms/d/1QLzt97LNCSOdOSQxjoVZS9x8uCDYgCbzihT-3OtdNsU/viewform) and fill it out. 
 
-Your manager should receive an email shortly and will schedule a time with you to go over any questions or concerns you might have.
+Your manager and/or HR should receive an email shortly and will schedule a time with you to go over any questions or concerns you might have.
 
 Thank you!
