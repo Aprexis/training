@@ -4,4 +4,4 @@ We created this tutorial at Catalyze because we wanted something that we could d
 
 Seeing an opportunity to help the industry and ideally reduce the barriers to people coming into healthcare from outside the industry, both things we're passionate about at Catalyze, we decided to reuse some of our existing content, from our blog, and generate a bunch of new content. If you have feedback or suggestions, please [email](mailto:training@catalyze.io) us.
 
-We've tried to organize this in the most logical way possible. Each section below has multiple subsections, and we provide links to additional resources at the end. There are exercises sprinkled throughout, which are meant to force you to actively engage, and break up the passive nature of the training.
+We've tried to organize this in the most logical way possible. Each section below has multiple subsections, and we provide links to additional resources at the end. There is a quiz towards the end, which is meant to force you to actively engage, and break up the passive nature of the training.
