@@ -2,7 +2,7 @@
 
 Since we manage critical systems potentially containing sensitive PHI information on behalf of our clients, we need to ensure that all access to systems adheres to the following rules. If you notice any violation of these, please report it immediately to the Chief Security Officer.
 
-1. All systems access must be requested formally to the VP of Engineering, Privacy Officer, or Security Officer via this [form](https://docs.google.com/a/catalyze.io/forms/d/1RaDg2rsmwY0l_fu2EFDVm7acLXejk_6EVIj62fVK-o0/viewform). If access if granted, it will be retained for future reference.
+1. All systems access must be requested formally to the VP of Engineering, Privacy Officer, or Security Officer via this [form](https://docs.google.com/a/catalyze.io/forms/d/1RaDg2rsmwY0l_fu2EFDVm7acLXejk_6EVIj62fVK-o0/viewform). If access is granted, it will be retained for future reference.
     - You will only be given access if it is deemed necessary to perform your job function. All access requests are treated on a ‘least-access principle”.
 2. Your email ID (or other unique identifiers such as SSH keys) are unique to you and must not be shared with anyone else within or outside the company.
 3. You have been given a laptop by the company. Only use this laptop for any work related to the company or accessing its systems. Do not utilize any personal systems to do so without explicit permission from the Chief Security Officer.
