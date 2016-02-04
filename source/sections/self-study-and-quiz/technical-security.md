@@ -16,9 +16,9 @@ You are responsible for your username/password when accessing the computer syste
 
 What is the Catalyze policy for password strength?
 
-- <input type="checkbox"> `Miniumum 7 characters - any combination of words and letters`
-- <input type="checkbox"> `Minimum 7 characters - no dictionary words, one number, one special character`
-- <input type="checkbox"> `Minimum 7 characters - all numbers`
+- <input type="checkbox"> `Miniumum 8 characters - any combination of words and letters`
+- <input type="checkbox"> `Minimum 8 characters - no dictionary words, one number, one special character`
+- <input type="checkbox"> `Minimum 8 characters - all numbers`
 - <input type="checkbox"> `Whatever's easy to remember`
 
 <div class="reveal-answer">
