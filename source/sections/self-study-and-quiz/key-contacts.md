@@ -38,7 +38,7 @@ You have questions and concerns about training - compliance or security related.
 	<blockquote><p>All training related concerns should be communicated either to the Chief Privacy Officer or your manager.</p></blockquote>
 </div>
 
-You receive some questions about the Catalyze BAA from one of our customers. You should reach out to:
+You receive some questions about the Datica BAA from one of our customers. You should reach out to:
 
 - <input type="checkbox"> `Chief Privacy Officer`
 - <input type="checkbox"> `Chief Product Officer`

@@ -1,4 +1,4 @@
-# Catalyze HIPAA Training Docs
+# Datica HIPAA Training Docs
 
 ![status](https://codeship.com/projects/11f09820-66f6-0133-fd05-5ef847086c15/status?branch=master)
 
@@ -9,7 +9,7 @@ This is an overview training of HIPAA, with coverage of key definitions and prov
 
 # Getting Started
 
-The Catalyze HIPAA Training docs are built using [Middleman](https://middlemanapp.com/), a static site generator. Please follow the [installation instructions](https://middlemanapp.com/basics/install/) for Middleman before continuing.
+The Datica HIPAA Training docs are built using [Middleman](https://middlemanapp.com/), a static site generator. Please follow the [installation instructions](https://middlemanapp.com/basics/install/) for Middleman before continuing.
 
 Once you have Middleman installed and working you can complete the following to get a working copy of these docs on your local machine:
 
@@ -26,4 +26,4 @@ Once you have Middleman installed and working you can complete the following to 
 
 **Deployment:**
 
-Commits to master are automatically deployed to `training.catalyze.io` via Codeship
+Commits to master are automatically deployed to `training.datica.com` via Codeship

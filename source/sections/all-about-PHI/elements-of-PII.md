@@ -1,4 +1,4 @@
-Obviously protection and privacy come into play once the individual can / has been uniquely identified. [There are after all 25.8 million Americans who have diabetes](http://ndep.nih.gov/diabetes-facts/). Which leads to the question of what data can be used to uniquely identify an individual. The generally accepted set of individually unique data elements include the [following](http://www.oshpd.ca.gov/Boards/CPHS/HIPAAIdentifiers.pdf):
+Protection and privacy come into play once the individual has been uniquely identified. [There are after all 25.8 million Americans who have diabetes](http://ndep.nih.gov/diabetes-facts/). Which leads to the question of what data can be used to uniquely identify an individual. The generally accepted set of individually unique data elements include the [following](http://www.oshpd.ca.gov/Boards/CPHS/HIPAAIdentifiers.pdf):
 
 <style type="text/css">.tftable {font-size:12px;color:#333333; width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
 .tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}

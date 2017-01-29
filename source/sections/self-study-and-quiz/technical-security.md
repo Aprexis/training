@@ -1,6 +1,6 @@
 ## Technical Security
 
-This set of questions will help you guage your understanding of the technical security requirements under HIPAA and the Catalyze policies in place to meet them.
+This set of questions will help you guage your understanding of the technical security requirements under HIPAA and the Datica policies in place to meet them.
 
 ---
 
@@ -14,7 +14,7 @@ You are responsible for your username/password when accessing the computer syste
 	<blockquote><p>If you suspect that someone knows your password or has been compromised in any way, change your password immediately and notify the Chief Security Officer</p></blockquote>
 </div>
 
-What is the Catalyze policy for password strength?
+What is the Datica policy for password strength?
 
 - <input type="checkbox"> `Miniumum 8 characters - any combination of words and letters`
 - <input type="checkbox"> `Minimum 8 characters - no dictionary words, one number, one special character`
@@ -26,7 +26,7 @@ What is the Catalyze policy for password strength?
 	<blockquote><p> Do not use easy to guess passwords while ensuring a high degree on entropy. When choosing a password, it is important to make sure it isn’t easy for others to guess. Your password is something you need to protect at all times.</p></blockquote>
 </div>
 
-The information I access in computer systems may be audited by Catalyze Inc. at any time.
+The information I access in computer systems may be audited by Datica Health Inc. at any time.
 
 - <input type="checkbox"> `True`
 - <input type="checkbox"> `False`
